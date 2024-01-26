@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-with-ngrok
+# Home Assistant with NGRok
 
-Based on "ABC" at https://www.abc.com/
+Based on "NGRok" at https://github.com/vanHeemstraSystems/ngrok/
 
 ## 100 - Introduction
 
